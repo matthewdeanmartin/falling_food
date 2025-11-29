@@ -1,0 +1,8 @@
+[project]
+name = "falling-food"
+version = "0.1.0"
+description = "Catch the food, follow the customers order, make money"
+requires-python = ">=3.13"
+dependencies = [
+    "pygame==2.6.1",
+]
